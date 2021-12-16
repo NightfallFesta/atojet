@@ -1,0 +1,11 @@
+* {padding:0; margin:0}
+li,ol,ul { list-style: none;}
+a {text-decoration: none;}
+
+body{position: relative; height: 100%; width: 100%;}
+
+.swiper{width: 100%; height: 100%;}
+.swiper-slide{display: flex; align-items: center; justify-content: center;}
+
+.page_main{}
+.page_main img{max-width: 100%; height: 100%;}
